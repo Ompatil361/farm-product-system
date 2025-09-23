@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: farm-product-system
+    env: docker
+    plan: free
